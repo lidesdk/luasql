@@ -1,0 +1,10 @@
+[luasql.sqlite3]
+author        = Pedro Miller Rabinovitch, Roberto Ierusalimschy, Diego Nehab (ODBC), Carlos Cassino, Tomás Guisasola and Eduardo Quintão (PostgreSQL).
+date          = 2017-12-15
+version       = 2.3.0
+windows       = x64:windows/x64/clibs/luasql/sqlite3.dll,windows/x64/runtime/libsqlite3.dll
+source        = https://github.com/keplerproject/luasql
+documentation = http://keplerproject.github.io/luasql/manual.html
+mantainer     = lide team
+description   = Database connectivity for the Lua programming language.
+comments      = none
